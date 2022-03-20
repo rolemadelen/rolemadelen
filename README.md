@@ -44,4 +44,6 @@
     <a href="#"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Heroku-000000?style=flat-square&logo=heroku&logoColor=white"/></a>
  </div>
+  <br />
+  <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=midotype" /></a>
 </div>
