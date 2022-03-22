@@ -27,6 +27,7 @@
 <br />
 <hr />
 
+
 <div align="center">
   <p>Techs that I've used at least once</p>
   <div>
@@ -44,6 +45,18 @@
     <a href="#"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Heroku-000000?style=flat-square&logo=heroku&logoColor=white"/></a>
  </div>
+  
   <br />
+  
+  <div align="center">
+    <p>Productivity / Coworking tools</p>
+    <a href="#"><img src="https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></a>
+  </div>
+  
+  <br />
+  
   <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=midotype" /></a>
 </div>
