@@ -1,6 +1,14 @@
 <div align="center">
   <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Mido%20Ryu%20(劉%20謎道)&desc=Frontend%20Engineer&descSize=14&fontSize=64&animation=fadeIn&color=gradient&fontAlignY=40&descAlign=27.3&descAlignY=56"></a>
 </div>
+    
+<div align="center">
+  <p>Blog</p>
+  <a href="#"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Personal Blog-181717?style=flat-square&logo=github&logoColor=white"/></a>
+</div>
+
+<br />
 
 <div align="center">
   <p>I'm comfortable with ... </p>
