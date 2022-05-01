@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Mido%20Ryu%20(劉%20謎道)&desc=Frontend%20Engineer&descSize=14&fontSize=64&animation=fadeIn&color=gradient&fontAlignY=40&descAlign=27.3&descAlignY=56"></a>
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Mido%20Eu%20(劉%20謎道)&desc=Frontend%20Engineer&descSize=14&fontSize=64&animation=fadeIn&color=gradient&fontAlignY=40&descAlign=29.5&descAlignY=56"></a>
 </div>
     
 <div align="center">
