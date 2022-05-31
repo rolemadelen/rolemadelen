@@ -4,8 +4,7 @@
     
 <div align="center">
   <p>Blog</p>
-  <a href="https://medium.com/@bleuinu"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white"/></a>
-  <a href="https://www.m-e.blue/"><img src="https://img.shields.io/badge/Personal Blog-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://www.m-e.blue/"><img src="https://img.shields.io/badge/Tech Blog-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </div>
 
 <br />
