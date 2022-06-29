@@ -27,8 +27,10 @@
   <div>
     <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
-<!--     <a href="https://www.acmicpc.net/user/midotype"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=midotype" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/DS & Algorithms-ffDAFB?style=flat-square&logo=DSA&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/RoR-CC0000?style=flat-square&logo=rubyonrails&logoColor=white"/></a>
+    <!--   <a href="https://www.acmicpc.net/user/midotype"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=midotype" /></a>
     <a href="https://www.codewars.com/users/bleuinu/"><img src="https://www.codewars.com/users/bleuinu/badges/micro" /></a> -->
   </div>
 </div>
@@ -39,8 +41,6 @@
 <div align="center">
   <p>Techs that I've used at least once</p>
   <div>
-    <a href="#"><img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/RoR-CC0000?style=flat-square&logo=rubyonrails&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Jekyll-CC0000?style=flat-square&logo=jekyll&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/></a>
     <br/>
