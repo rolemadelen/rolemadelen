@@ -28,8 +28,8 @@
     <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
-    <a href="https://www.acmicpc.net/user/midotype"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=midotype" /></a>
-    <a href="https://www.codewars.com/users/bleuinu/"><img src="https://www.codewars.com/users/midotype/badges/micro" /></a>
+<!--     <a href="https://www.acmicpc.net/user/midotype"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=midotype" /></a>
+    <a href="https://www.codewars.com/users/bleuinu/"><img src="https://www.codewars.com/users/bleuinu/badges/micro" /></a> -->
   </div>
 </div>
 <br />
