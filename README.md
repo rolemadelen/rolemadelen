@@ -66,5 +66,5 @@
   
   <br />
   
-  <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=bleuinu" /></a>
+  <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=bleuisgone" /></a>
 </div>
