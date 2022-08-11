@@ -6,7 +6,8 @@
   <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/DS & Algorithms-ffDAFB?style=flat-square&logo=DSA&logoColor=white"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white"/></a>
 
   <img src ="https://github-readme-stats.vercel.app/api?username=rolemadelen&show_icons=true&count_private=true&theme=graywhite&hide_border=true&bg_color=00000000&hide_rank=true">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=rolemadelen&layout=compact&hide_border=true&theme=graywhite&bg_color=00000000&langs_count=8">
