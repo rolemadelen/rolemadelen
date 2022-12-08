@@ -37,7 +37,7 @@
   
   <div align="center">
     <p>Productivity / Coworking tools</p>
-    <a href="#"><img src="https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Nota-000?style=flat-square&logo=nota&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></a>
