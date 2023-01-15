@@ -1,6 +1,8 @@
 <div align="center">
-  <h1> Madelen👋🏼 </h1>
-  
+  <h2> Madelen👋🏼 </h2>
+  <p><a href="rolemadelen.com">blog</a></p>
+</div>
+<!--   
   <h4>currently studying</h4>
     
   <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>
@@ -11,8 +13,8 @@
   <img src ="https://github-readme-stats.vercel.app/api?username=rolemadelen&show_icons=true&count_private=true&theme=graywhite&hide_border=true&bg_color=00000000&hide_rank=true">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=rolemadelen&layout=compact&hide_border=true&theme=graywhite&bg_color=00000000&langs_count=8">
   <img src ="https://github-readme-streak-stats.herokuapp.com/?user=rolemadelen&theme=graywhite&hide_border=true&background=FFFFFF00">
-</div>
-
+</div> -->
+<!-- 
 
 <div align="center">
   <h1> TECH STACK ⚙️</h1>
@@ -43,3 +45,4 @@
     <a href="#"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></a>
   </div>
 </div>
+ -->
