@@ -3,7 +3,8 @@
 ### Jii Eu 
 <sup>Front-End Developer</sup>
 
-<img width="52" src="https://github.com/geekygreek7/animated-pokemon-gifs/blob/master/261.gif?raw=true" />
+<img width="48" src="https://github.com/geekygreek7/animated-pokemon-gifs/blob/master/197.gif?raw=true" />
+<img width="45" src="https://github.com/geekygreek7/animated-pokemon-gifs/blob/master/58.gif?raw=true" />
 <br />
 <br />
 
