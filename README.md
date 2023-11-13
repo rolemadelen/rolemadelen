@@ -12,7 +12,6 @@
 )](https://jiieu.com/ ) 
 [![Blog](https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logoColor=white
 )](https://blog.jiieu.com/ ) 
-[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@jiieu17/videos)
 
 ---
 
