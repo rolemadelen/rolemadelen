@@ -14,7 +14,7 @@
 
 
 <div>
-<h4>Platforms / Languages</h4>
+<h4>Front-End</h4>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"></a>
   <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white"></a>
   <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white"></a>
@@ -24,7 +24,7 @@
   
 </div>
   <div>
-    <h4>Frameworks / Libraries</h4>
+    <h4>Framework / Library</h4>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white">
   <img alt="svelte" src="https://img.shields.io/badge/Svelte-f23f00?logo=svelte&logoColor=white">
   <img alt="next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white">
