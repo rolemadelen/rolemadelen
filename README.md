@@ -21,8 +21,8 @@
   <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white"></a>
   <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
-  
 </div>
+  
   <div>
     <h4>Framework / Library</h4>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white">
@@ -32,6 +32,15 @@
   <img alt="recoil" src="https://img.shields.io/badge/Recoil-3578e5?logo=recoil&logoColor=white">
   <img alt="vite" src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white">
 </div>
+
+
+<div>
+  <h4>Back-End</h4>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-73b759?logo=nodedotjs&logoColor=white">
+  <img alt="Express.js" src="https://img.shields.io/badge/Express-fff?logo=express&logoColor=black">
+  <img alt="Ruby" src="https://img.shields.io/badge/Ruby-bc110f?logo=ruby&logoColor=white">
+</div>
+
 <div>
   <h4>Database / Hosting</h4>
   <img alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-1e5287?logo=postgresql&logoColor=white">
@@ -40,6 +49,7 @@
   <img alt="vercel" src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white">
   <img alt="netlify" src="https://img.shields.io/badge/Netlify-00beab?logo=netlify&logoColor=white">
 </div>
+
 </div>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=77b9f6&section=footer&" />
