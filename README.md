@@ -10,7 +10,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-2962FF?style=for-the-badge&logoColor=white
 )](https://jiieu.com/ ) 
 [![About Me](https://img.shields.io/badge/About_Me-12100E?style=for-the-badge&logoColor=white
-)](https://blog.jiieu.com/about ) 
+)](https://blog.imjiwon.com/about ) 
 
 
 <div>
