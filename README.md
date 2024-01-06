@@ -1,6 +1,6 @@
 <div align="">
 
-### Jii Eu 👋🏼
+### Jii Yoo 👋🏼
 <sup>Web Developer (Front-End)</sup>
 
 <img width="48" src="./197.gif" />
