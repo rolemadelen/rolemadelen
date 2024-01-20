@@ -7,10 +7,8 @@
 <img width="45" src="./58.gif" />
 <br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-2962FF?style=for-the-badge&logoColor=white
-)](https://jiieu.com/ ) 
 [![About Me](https://img.shields.io/badge/About_Me-12100E?style=for-the-badge&logoColor=white
-)](https://blog.imjiwon.com/about ) 
+)](https://blog.jiiyoo.me/about ) 
 
 
 <div>
