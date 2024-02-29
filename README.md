@@ -2,10 +2,6 @@
 
 <img width="48" src="./197.gif" />
 <img width="45" src="./58.gif" />
-<br />
-
-[![About Me](https://img.shields.io/badge/About_Me-12100E?style=for-the-badge&logoColor=white
-)](https://blog.jiiyoo.me/about ) 
 
 
 <div>
