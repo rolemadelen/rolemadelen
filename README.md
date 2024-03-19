@@ -4,7 +4,7 @@
 <img width="45" src="./58.gif" />
 
 ## what am i doing now?
-See my [now page](blog.madelen.me/now).
+See my [now page](https://blog.madelen.me/now).
 
 <!--
 <div>
