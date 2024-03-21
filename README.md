@@ -3,8 +3,14 @@
 <img width="48" src="./197.gif" />
 <img width="45" src="./58.gif" />
 
-## what am i doing now?
+### what am i doing now?
 See my [now page](https://blog.madelen.me/now).
+
+--
+<br />
+
+### cli crafts
+[pomosh](https://github.com/rolemadelen/pomosh)
 
 <!--
 <div>
